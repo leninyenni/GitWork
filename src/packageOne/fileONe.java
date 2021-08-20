@@ -7,5 +7,7 @@ public class fileONe {
         System.out.println("Second change from remote master");
         System.out.println("Third change from local master");
         System.out.println("Fourth change from local master");
+        System.out.println("Fifth change added");
+        System.out.println("Sixth change added");
     }
 }
